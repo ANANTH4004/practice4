@@ -1,0 +1,8 @@
+D:\c#\day3\day3\bin\Debug\day3.exe.config
+D:\c#\day3\day3\bin\Debug\day3.exe
+D:\c#\day3\day3\bin\Debug\day3.pdb
+D:\c#\day3\day3\obj\Debug\day3.csproj.AssemblyReference.cache
+D:\c#\day3\day3\obj\Debug\day3.csproj.SuggestedBindingRedirects.cache
+D:\c#\day3\day3\obj\Debug\day3.csproj.CoreCompileInputs.cache
+D:\c#\day3\day3\obj\Debug\day3.exe
+D:\c#\day3\day3\obj\Debug\day3.pdb
