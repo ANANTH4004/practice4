@@ -11,7 +11,7 @@ namespace day3
     {
         static void Main(string[] args)
         {
-            string file = @"D:\c#\day3\hello.txt";
+            string file = @"D:\c#\day3\Student.txt";
             if (File.Exists(file))
             {
                 string str = File.ReadAllText(file);
